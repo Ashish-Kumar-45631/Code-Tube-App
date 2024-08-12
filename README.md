@@ -1,4 +1,4 @@
-# Project Description: CodeTube Catalog
+# CodeTube Catalog
 
 ## Overview
 CodeTube Catalog is an online platform designed for purchasing courses and following favorite instructors. It provides users with a seamless experience to browse, select, and buy courses from various categories while allowing them to follow and keep track of their preferred instructors.
